@@ -1,4 +1,8 @@
 # AppFlix
+Acesse para ver o site online.
+
+https://diegoappflix.netlify.app/
+
 
 ![image](https://user-images.githubusercontent.com/94180941/163872612-cae86cc7-539e-4dfe-9668-8d7857c1df09.png)
 
